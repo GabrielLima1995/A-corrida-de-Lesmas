@@ -21,20 +21,20 @@ Saída
 Para cada caso de teste, imprima uma única linha indicando o nível de velocidade da lesma mais veloz do grupo.
 
 <b> Exemplo de Entrada</b>	
-10
-10 10 10 10 15 18 20 15 11 10
-10
-1 5 2 9 5 5 8 4 4 3
-10
-19 9 1 4 5 8 6 11 9 7
+<p>10</p>
+<p>10 10 10 10 15 18 20 15 11 10 </p>
+<p>10</p>
+<p>1 5 2 9 5 5 8 4 4 3 </p>
+<p>19 9 1 4 5 8 6 11 9 7 </p>
 
 <b>Exemplo de Saída</b>
-3
-1
-2
+<p>3</p>
+<p>1</p> 
+<p>2</p>
 
-A resolução desse problema se da com o propósito de compartilhar conhecimento. 
+<b>A resolução desse problema se da com o propósito de compartilhar conhecimento.</b>
 
-Fonte do problema : URI - Universidade Regional Integrada 
+<b>Fonte do problema : URI - Universidade Regional Integrada</b>
 
-<a href = https://www.urionlinejudge.com.br/judge/pt/problems/view/1789> Clique aqui para ir ao site </a>
+<a href = https://www.urionlinejudge.com.br/judge/pt/problems/view/1789> Clique aqui para ir ao site</a>
+<p><b>Gabriel Lima</b></p>
